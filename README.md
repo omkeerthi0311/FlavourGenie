@@ -11,7 +11,7 @@ Flavour Genie is a web application that utilizes Google's Generative AI (Gemini 
 - Error handling with meaningful feedback to users.
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (put these 3 in public folder)
+- **Frontend:** HTML, CSS, JavaScript (Create a public folder and add this files)
 - **Backend:** Node.js, Express
 - **AI Integration:** Gemini AI (Google Generative AI)
 - **APIs:** Fetch API for server communication
